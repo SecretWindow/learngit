@@ -3,3 +3,4 @@
 # How to deal with conflict
 # Test conflict
 # change in old  branch
+# Test conflict
