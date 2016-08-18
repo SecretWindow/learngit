@@ -1,2 +1,3 @@
 # Test the git remote connection
-# Test conflict
+# Test the branch
+# How to deal with conflict
