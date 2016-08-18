@@ -2,7 +2,7 @@
 # Test the branch
 # How to deal with conflict
 # Test conflict
-# change in old  branch
+# change to old  branch
 # Test conflict
 # why
 # why?
